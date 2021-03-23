@@ -1,14 +1,15 @@
+
 {
-    "name": "app-service-hello-world",
-    "description": "Simple Hello World Node.js sample for Azure App Service",
-    "version": "0.0.1",
-    "private": true,
-    "license": "MIT",
-    "author": "Microsoft",
-    "scripts": {
-        "start": "node index.js"
+  "name": "app-service-hello-world",
+  "description": "Simple Hello World Node.js sample for Azure App Service",
+  "version": "0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Microsoft",
+  "scripts": {
+      "start": "node index.js"
     }
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git://github.com/adrian-testorg/StanChart-NodeJS-Starter.git"
   },
@@ -16,5 +17,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/adrian-testorg//StanChart-NodeJS-Starter/issues"
-  }
+  },
+  "homepage": "https://github.com/pied-piper-inc/StanChart-NodeJS-Starter#readme",
 }
