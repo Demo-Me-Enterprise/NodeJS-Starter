@@ -29,7 +29,13 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
+          scope: '@StanChart-Demo'
       - run: npm ci
+      - name: Update package version
+        run: |
+          git config user.name "Actions User"
+          git config user.email noreply@github.com
+          npm version 1.0.$(date +%s)
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
