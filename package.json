@@ -10,7 +10,7 @@
     },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adrian-testorg/StanChart-NodeJS-Starter.git"
+    "url": "git://github.com/StanChart-Demo/StanChart-NodeJS-Starter.git"
   },
   "author": "Adrian Lee <kleeadrian@github.com>",
   "license": "MIT"
