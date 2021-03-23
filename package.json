@@ -1,6 +1,6 @@
 
 {
-  "name": "@StanChart-Demo/app-service-hello-world",
+  "name": "@stanchart-demo/app-service-hello-world",
   "description": "Simple Hello World Node.js sample for Azure App Service",
   "version": "1.0.1",
   "license": "MIT",
