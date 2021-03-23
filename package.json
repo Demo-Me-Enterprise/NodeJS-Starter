@@ -8,13 +8,11 @@
   "author": "Microsoft",
   "scripts": {
       "start": "node index.js"
-    }
+    },
   "repository": {
     "type": "git",
     "url": "git://github.com/adrian-testorg/StanChart-NodeJS-Starter.git"
   },
   "author": "Adrian Lee <kleeadrian@github.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/adrian-testorg//StanChart-NodeJS-Starter/issues"
-  }
+  "license": "MIT"
+}
