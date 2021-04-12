@@ -1,11 +1,11 @@
 
 
-# Starter NodeJS Workflow to Deploy to Azure
+# Starter NodeJS Workflow to Deploy to ECR
 
 ## NodeJS HelloWorld
 
-This sample demonstarates a Hello World app on NodeJS. Deploy to Azure App Service Linux
+This sample demonstarates a Hello World app on NodeJS. 
 
 ## Deployment
 
-To deploy this application, you will need to host and create an Azure App Service Linux
+To deploy this application, you will need to have an active AWS subscription
